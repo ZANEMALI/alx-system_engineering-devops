@@ -1,2 +1,0 @@
-#!/bin/bash
-ln -s "$(pwd)" /bin/ls _ls_
